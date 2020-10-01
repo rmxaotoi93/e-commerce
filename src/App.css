@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -38,4 +36,5 @@
 }
 body{
   font-family: 'Open Sans Condensed', sans-serif;
+  padding: 20px 60px;
 }
